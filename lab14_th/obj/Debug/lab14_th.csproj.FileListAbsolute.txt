@@ -1,0 +1,8 @@
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\bin\Debug\lab14_th.exe.config
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\bin\Debug\lab14_th.exe
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\bin\Debug\lab14_th.pdb
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\obj\Debug\lab14_th.csproj.AssemblyReference.cache
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\obj\Debug\lab14_th.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\obj\Debug\lab14_th.csproj.CoreCompileInputs.cache
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\obj\Debug\lab14_th.exe
+C:\Users\MOJI\source\repos\kpz\lab14_th\lab14_th\obj\Debug\lab14_th.pdb
